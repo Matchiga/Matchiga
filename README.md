@@ -1,16 +1,34 @@
-### Hi there 👋
+<div>
+  <h1 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/Matchiga/"><i>Matheus</i></a> 😃️</h1>
+  <h3 align="center">E estou em uma jornada para me tornar um Desenvolvedor.
+ <br>
+    <br>
+  <p align="center"> Histórico atual de minhas tecnologias:</h2>
+</div>
 
-<!--
-**Matchiga/Matchiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="github.com/Matchiga">
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matchiga&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchiga&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h3 align="center">💻 Tecnologias ultilizadas 💻
+<div align="center" valign="top"><br>
+  
+  <img align="center" alt="HTML" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="git" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br> <br><br>
+  
+</div>
+  <h3 align="center"> 📱 Redes Sociais 📱
+    <br>
+<div align="center"> <br>
+  <a href="https://www.instagram.com/matchiga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-chiga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:matheuschiga1303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br> <br>
