@@ -32,7 +32,7 @@
 
   <h3 align="center"> Aprendendo e Aperfeiçoando ✍
   <div align="center"> <br>
-    <img align="center" alt="Bootstrap" height="50" margin="50px" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="CSS" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
