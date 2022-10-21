@@ -5,7 +5,6 @@
   <h3 align="center"> Histórico atual 📚</h3>
 </div>
 
-
 <div align="center">
   <a href="github.com/Matchiga">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matchiga&count_private=false&include_all_commits=true&show_icons=true&theme=apprentice&hide_border=true&show_owner=true&bg_color=00000000"/>
@@ -26,13 +25,16 @@
   <img align="center" alt="CSS" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="git" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>
+  <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <br>
   
 </div>
 
   <h3 align="center"> Aprendendo e Aperfeiçoando ✍
   <div align="center"> <br>
     <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   <h3 align="center"> Redes Sociais 📱
 <div align="center"> <br>
