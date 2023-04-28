@@ -1,24 +1,14 @@
 <div>
-  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/matheus-chiga/">Matheus</a></h1>
+  <h1 align="center">🐱‍👤Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-chiga/">Matheus</a>🐱‍👤</h1>
  <br>
- 
-  <h3 align="center"> Histórico atual 📚</h3>
-</div>
 
-<div align="center">
-  <a href="github.com/Matchiga">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matchiga&count_private=false&include_all_commits=true&show_icons=true&theme=apprentice&hide_border=true&show_owner=true&bg_color=00000000"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchiga&theme=apprentice&hide_border=true&&layout=compact&bg_color=00000000"/>
-  </a>
-</div>
-
-<h3 align="center">Evolução 💹<br>
+<h3 align="center">💹 Evolução 💹<br>
 
 <div align="center">
   <a href="https://github.com/Matchiga"><img src="http://github-readme-streak-stats.herokuapp.com?user=Matchiga&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=E4E73B&ring=FFFFFF&currStreakLabel=FFFFFF&background=00000000"></a>
 </div>
 
- <h3 align="center"> Tecnologias ultilizadas 💻
+ <h3 align="center">💻 Tecnologias ultilizadas 💻
 <div align="center" valign="top"><br>
   
   <img align="center" alt="HTML" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +23,7 @@
   
 </div>
 
-  <h3 align="center"> Aprendendo e Aperfeiçoando ✍
+  <h3 align="center">✍ Aprendendo e Aperfeiçoando ✍
   <div align="center"> <br>
     <img align="center" alt="Csharp" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="MySQL" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
