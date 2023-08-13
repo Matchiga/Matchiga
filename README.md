@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">🐱‍👤Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Matheus</a>🐱‍👤</h1>
+  <h1 align="center"> ⭐ Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Matheus</a> ⭐</h1>
  <br>
 
 <h3 align="center">💹 Evolução 💹<br>
