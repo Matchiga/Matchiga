@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Matheus</a> ⭐</h1>
+  <h1> Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Matheus</a> ⭐</h1>
 
 <h3> Sobre 📖 </h3>
 <p> Olá, sou Matheus, tenho 23 anos e trabalho em suporte para o Ploomes CRM, recentemente me formei em Análise e Desenvolvimento de Sistemas, embora tenha concluído a graduação este ano foi apenas no final de 2022 que despertou em mim o desejo de explorar a programação. Atualmente, estou estudando para me tornar um desenvolvedor .NET (C#).
