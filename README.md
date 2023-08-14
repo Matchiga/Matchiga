@@ -1,8 +1,8 @@
 <div>
-  <h1> Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Matheus</a> ⭐</h1>
+  <h1> Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Chiga</a> ⭐</h1>
 
 <h3> Sobre 📖 </h3>
-<p> Olá, sou Matheus, tenho 23 anos e trabalho em suporte para o Ploomes CRM, recentemente me formei em Análise e Desenvolvimento de Sistemas, embora tenha concluído a graduação este ano foi apenas no final de 2022 que despertou em mim o desejo de explorar a programação. Atualmente, estou estudando para me tornar um desenvolvedor .NET (C#).
+<p> Olá! Sou o Matheus, embora muitos me conheçam como Chiga, que é meu sobrenome. Estou com 23 anos e desempenho a função de suporte no Ploomes CRM. Recentemente, obtive minha graduação em Análise e Desenvolvimento de Sistemas. Apesar de ter concluído o curso ainda este ano, foi somente no final de 2022 que despertou em mim a vontade de explorar a programação de forma mais profunda. No momento, estou imerso nos estudos para me tornar um desenvolvedor .NET, com foco em C#.
   <br><br>
 
 <h3 >Evolução 💹<br>
