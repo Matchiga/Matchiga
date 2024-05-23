@@ -17,7 +17,7 @@
   <img align="center" alt="MySQL" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt=".Net Core" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <br>
-  
+  <br>
 </div>
 
   <h3>Aprendendo e Aperfeiçoando ✍
@@ -25,8 +25,9 @@
     <img alt="Csharp" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img height="40" margin="50px" width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img height="40" margin="50px" width="40" alt=".Net Core" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  
-<div> <br><br><br>
+  <br><br>
+<h3> Contato 📱
+<div> <br>
   <a href="https://www.linkedin.com/in/matheuschiga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:matheuschiga0109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
