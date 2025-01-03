@@ -1,7 +1,7 @@
 <h1> Opa, aqui quem fala é o <a href="https://www.linkedin.com/in/matheus-gomes-chiga/">Chiga</a> ⭐</h1>
 
 <h3> Sobre 📖 </h3>
-<p> Olá! Sou o Matheus, embora muitos me conheçam como Chiga, que é meu sobrenome. Recentemente, obtive minha graduação em Análise e Desenvolvimento de Sistemas.
+<p> Olá! Sou o Matheus, embora muitos me conheçam como Chiga, que é meu sobrenome. Atualmente trabalho na Ploomes, como Desenvolvedor Backend com a linguagem C#.
 
 <h3 >Evolução 💹<br>
 
