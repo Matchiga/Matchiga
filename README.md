@@ -3,11 +3,6 @@
 <h3> Sobre 📖 </h3>
 <p> Olá! Sou o Matheus, embora muitos me conheçam como Chiga, que é meu sobrenome. Atualmente trabalho na Ploomes, como Desenvolvedor Backend com a linguagem C#.
 
-<h3 >Evolução 💹<br>
-
-<div >
-  <a href="https://github.com/Matchiga"><img src="http://github-readme-streak-stats.herokuapp.com?user=Matchiga&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=E4E73B&ring=FFFFFF&currStreakLabel=FFFFFF&background=00000000"></a>
-</div>
  <h3>Tecnologias ultilizadas 💻
 <div valign="top"><br>
   
