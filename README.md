@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Matchiga/Matchiga/output/snake.svg" alt="Snake animation" />
-
-###
